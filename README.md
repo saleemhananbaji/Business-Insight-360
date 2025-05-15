@@ -16,6 +16,7 @@
 6. [Data Modelling Approach](#data-modelling-approach)
 7. [Power BI Techniques Learned](#power-bi-techniques-learned)
 8. [Key Business Metrics and Insights](#key-business-metrics-and-insights)
+9. [Conclusion](#conclusion)
 
 ## Project Overview
 
@@ -94,6 +95,10 @@ After opening a new store in America, AtliQ Hardware faced unexpected losses bec
 - **Supply Chain:** Evaluate the accuracy of demand forecasts to minimize overstock and reduce wastage.
 
 - **Executive View:** Provide leadership with a comprehensive, high-level dashboard for informed decision-making.
+
+## Conclusion
+
+The BI 360 Dashboard project offered valuable insights into AtliQ Hardware’s business performance using Power BI. It enabled clear visualization of key metrics like revenue, net profit, and growth trends. This project strengthened my skills in data modeling, DAX, and storytelling through visuals. Overall, it highlights the power of data-driven decision-making in a business context.
 
 
 
