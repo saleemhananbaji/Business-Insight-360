@@ -4,7 +4,7 @@
 
 **Project title:** AtliQ Hardware Business Insights 360    
 **Author:** Hanan Saleem Baji  
-**Live dashboard link:** [link](https://app.powerbi.com/view?r=eyJrIjoiNzA5NjRkNDctYmYzNS00MmQ1LWI3MGYtZmJjZGM2ODI5Y2Q0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+**Live dashboard link:** [link](https://app.powerbi.com/view?r=eyJrIjoiMjliNWZkNzktNjU2YS00NzJmLWFmYzktYTQ1MTU0ZWRiN2U0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 **Dashboard presentation link:** [link](https://drive.google.com/file/d/1bVE8-dmAwFLQVQNFjWhVlTVdagjcpZon/view?usp=sharing)
 
 ## Table of contents:
